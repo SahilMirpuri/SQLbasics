@@ -1,0 +1,2 @@
+# SQLbasics
+Basics of SQL
